@@ -14,3 +14,17 @@ To use the script, you must provide the network address as an argument. For exam
 
 ```bash
 ./activeNetworkScanner.sh 192.168.1
+```
+
+## Improvements and Suggestions
+
+- This script can be improved for better efficiency by fine-tunning the parallel process control.
+- It can be customized to perform more specific scans (e.g., scanning ports or performing more detailed connectivity testings).
+
+## Contributions
+
+If you would like to contribute to this project, please open a *pull request* or submit an *issue* with suggestions or fixes.
+
+## License
+
+This project is licensed under the **GPL-3.0 license**. See the **LICENSE** file for more details.
