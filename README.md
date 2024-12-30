@@ -16,21 +16,21 @@ This repository includes tools for:
 - **Traffic monitoring and analysis**
 - **Digital forensics**
   
-## 📦 Installation
+## Installation
 
 To install the tools included in this repository, follow the instructions for each specific tool in their respective documentation. Here are the general steps to get started:
 
-1. Clone this repository:
+1. **Clone this repository**:
 ```bash
 git clone https://github.com/HectorPuch/tools.git
 ```
 
-2. Access the directory:
+2. **Access the directory**:
 ```bash
 cd tools
 ```
 
-3. Using the tools.
+3. **Using the tools**.
 
 ## Contributions
 
