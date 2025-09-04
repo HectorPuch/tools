@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-    echo "Uso: $0 <URL>"
+    echo "Use: $0 <URL>"
     exit 1
 fi
 
